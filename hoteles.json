@@ -1,13 +1,7 @@
 [
-  {
-    "id": "1A",
-    "name": "Think positive - or negative",
-    "sections": [
-      {
-        "id": 1,
-        "name": "hotel",
-        "url": ""
-      }
-    ]
-  }
+    {
+      "id": 1,
+      "name": "Ningun hotel",
+      "url": ""
+    }
 ]
