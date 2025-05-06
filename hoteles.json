@@ -1,7 +1,12 @@
 [
     {
       "id": 1,
-      "name": "Ningun hotel",
-      "url": ""
+      "name": "MIKI HOTEL",
+      "url": "http://26.87.188.94"
+    },
+    {
+      "id": 2,
+      "name": "HEDDUX",
+      "url": "https://heddux.com"
     }
 ]
